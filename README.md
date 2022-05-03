@@ -1,2 +1,2 @@
 # happywhale
-Wale and Dolphin Identification
+Whale and Dolphin Identification
